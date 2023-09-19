@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuttle Navigation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>NaVIT</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>Welcome to Our Website</h2>
+            <p>Considering the difficulties in finding the shuttle on time and predicting its travel time, this is an app to track the location of the shuttle bus.
+</p>
+          <section>
+            <h2>Hostels and Academic Blocks</h2>
+            <p>To&emsp; From&emsp;&emsp;&emsp;Time</p>
+            <p>PRP&emsp;Men's Hostel&emsp;7:00AM</p>
+            <p>SJT&emsp;Men's Hostel&emsp;7:00AM</p>
+            <p>TT&emsp;Men's Hostel&emsp;7:00AM</p>
+            <p>SMV&emsp;Men's Hostel&emsp;7:15AM</p>
+            <p>GDN&emsp;Men's Hostel&emsp;7:15AM</p>
+            <p>MGR&emsp;Men's Hostel&emsp;7:15AM</p>
+            <p>PRP&emsp;Ladies Hostel&emsp;7:10AM</p>
+            <p>SJT&emsp;Ladies Hostel&emsp;7:10AM</p>
+            <p>TT&emsp;Ladies Hostel&emsp;7:10AM</p>
+            <p>SMV&emsp;Ladies Hostel&emsp;7:25AM</p>
+            <p>GDN&emsp;Ladies Hostel&emsp;7:25AM</p>
+            <p>MGR&emsp;Ladies Hostel&emsp;7:25AM</p>
+</p>
+        </section>
+        
+        </p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; Designed by Access-Denied</p>
+    </footer>
+</body>
+</html>
